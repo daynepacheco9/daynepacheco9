@@ -10,7 +10,11 @@
   <img align="center" alt="Day-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="Day-python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="Day-java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Day-C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">  
+  <img align="center" alt="Day-C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Day-C#" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Day-js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Day-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Day-rust" height="30" width="40" src="https://icons8.com/icon/t7vIvDXazOGO/rust-programming-language">
 </div>
 
 ##
